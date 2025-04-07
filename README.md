@@ -1,4 +1,4 @@
-# Hello World - A Classic Python Script
+# A Classic Python Script "Hello World"
 
 This is a simple Python script that prints "Hello, World!" to the console. This script serves as a classic example of a minimal Python program, often used as a starting point for beginners to learn the syntax of the language.
 
