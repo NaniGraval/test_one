@@ -7,10 +7,6 @@ This is a simple Python script that prints "Hello, World!" to the console. This 
 1. Clone or download this repository to your local machine.
 2. Open a terminal or command prompt.
 3. Navigate to the directory where the `hello_world.py` file is located.
-4. Run the following command:
-    ```bash
-    python hello_world.py
-    ```
 
 ## Output
 
