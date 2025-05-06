@@ -9,5 +9,4 @@ This is a simple Python script that prints "Hello, World!" to the console. This 
 3. Navigate to the directory where the `hello_world.py` file is located.
 
 ## Output
-
-When you run the script, it will print:
+When you run the script, it will print.
