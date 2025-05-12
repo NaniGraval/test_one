@@ -1,3 +1,5 @@
+# function hello
+
 def main():
     print("Hello, World!")
 
